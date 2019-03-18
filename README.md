@@ -56,7 +56,7 @@ Feel free to submit a Pull Request on this README. You can also message me on [T
 
 [Lore] - Podcast on history and lore of western society. Also an Amazon original series and a few books too.
 
-[TeenCreeps] - Fun discussions of the YA fiction from our 90s childhood.
+[Teen Creeps] - Fun discussions of the YA fiction from our 90s childhood.
 
 ## Copyrights
 
